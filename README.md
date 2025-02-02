@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Thomas Pacheco </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'https://media.giphy.com/media/l2R0flMBPtMGU0wbm/giphy.gif?cid=ecf05e47sh0s3az1v1rs0gsakqoluo0sfe1vhif5qbnhk25s&ep=v1_gifs_search&rid=giphy.gif&ct=g' width="300px" alt = 'Awesome Matrix Code' align='right'/>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
