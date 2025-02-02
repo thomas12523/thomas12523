@@ -12,11 +12,10 @@ I'm currently studying Technology and Information Management | Computer Science 
 - ✔ Ask me about anything, I am happy to help!😉<br>
 - Outside tech, ▶️ I love to watch movies and documentaries, 🎾 playing tennis, 🎵 listening to music.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Skills Include</b>
 
-<h4> Languages & Frameworks</h4>
+<h4>🌟 Languages & Frameworks 🌟</h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -25,7 +24,7 @@ I'm currently studying Technology and Information Management | Computer Science 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </span>
-<h4>Contact me</h4>
+<h4>🤝 Connect With Me 🤝</h4>
 <span> 
   <a href="https://www.linkedin.com/in/thomaspacheco0408" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -35,8 +34,17 @@ I'm currently studying Technology and Information Management | Computer Science 
   </a>
 </span>
 
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b7611gc2h07g7sty7fx43y3vkdtdodkbfrgt96zkx0zai&ep=v1_gifs_search&rid=giphy.gif&ct=g" width ="25"><b> Github stats</b>
 
-[![](https://github-readme-stats.vercel.app/api?username=thomas12523&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/thomas12523)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=thomas12523&theme=material-palenight)](https://github.com/thomas12523)
+<div align="center">
+  <a href="https://github.com/thomas12523">
+    <img src="https://github-readme-stats.vercel.app/api?username=thomas12523&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
+  </a>
+  <br>
+  <a href="https://github.com/thomas12523">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thomas12523&theme=material-palenight" />
+  </a>
+</div>
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
