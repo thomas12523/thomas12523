@@ -35,4 +35,8 @@ I'm currently studying Technology and Information Management | Computer Science 
   </a>
 </span>
 
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=thomas12523&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/thomas12523)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=thomas12523&theme=material-palenight)](https://github.com/thomas12523)
 
