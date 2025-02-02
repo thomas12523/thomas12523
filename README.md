@@ -11,7 +11,6 @@ I'm currently studying Technology and Information Management | Computer Science 
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help!😉<br>
 - Outside tech, ▶️ I love to watch movies and documentaries, 🎾 playing tennis, 🎵 listening to music.
-- 📫 Reach out to me at: <a href="thomasextrem0408@gmail.com">thomasextrem0408@gmail.com</a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
