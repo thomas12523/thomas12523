@@ -5,7 +5,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I'm currently studying Technology and Information Management | Computer Science at UADE. I'm expanding my knowledge through my degree and Udemy courses. I consider myself a self-taught person. I love coding and solving different problems in any field that requires it.
+I'm currently studying Technology and Information Management | Computer Science at UADE. I'm expanding my knowledge through my degree and Udemy courses. I consider myself a self-taught person. I love coding and solving different problems in any field that requires.
 - 🌱 I’m currently learning ...
   - Flask
 - 👯 I’m looking forward to collaborate on open source projects.
