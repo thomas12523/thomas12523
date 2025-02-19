@@ -10,7 +10,7 @@ I'm currently studying Technology and Information Management | Computer Science 
   - SQL
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help!😉<br>
-- Outside tech, ▶️ I love to watch movies and documentaries, 🎾 playing tennis, 🎵 listening to music.
+- Outside tech, ▶️ I love to watch movies and documentaries, playing tennis 🎾, listening to music 🎵.
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Skills Include</b>
