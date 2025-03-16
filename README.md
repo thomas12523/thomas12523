@@ -7,7 +7,7 @@
 
 I'm currently studying Technology and Information Management | Computer Science at UADE. I'm expanding my knowledge through my degree and Udemy courses. I consider myself a self-taught person. I love coding and solving different problems in any field that requires.
 - 🌱 I’m currently learning ...
-  - SQL
+  - SQL && JAVA
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help!😉<br>
 - Outside tech, I love to watch movies and documentaries ▶️, playing tennis 🎾, listening to music 🎵.
