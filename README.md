@@ -33,7 +33,7 @@ I'm currently studying Technology and Information Management | Computer Science 
   </a>
 </span>
 
-[CLICKEAME PARA SABER MÁS DE MÍ :)](https://thomas12523.github.io/Me/)
+[Click on me :)](https://thomas12523.github.io/Me/)
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b7611gc2h07g7sty7fx43y3vkdtdodkbfrgt96zkx0zai&ep=v1_gifs_search&rid=giphy.gif&ct=g" width ="25"><b> Github stats</b>
 
 <div align="center">
